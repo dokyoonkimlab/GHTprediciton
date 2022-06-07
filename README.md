@@ -22,10 +22,10 @@ test_main.py
 ```
   
 ### Note
-  1. Implementation of variable selection also can be found at scikit-learn
-    a. from sklearn.linear_model import LogisticRegression
-    b. from sklearn.ensemble import ExtraTreesClassifier
-    c. from sklearn.svm import SVC
-    d. from sklearn.feature_selection import RFE
-  
+  1. Implementation of variable selection also can be found at scikit-learn <br>
+    a. from sklearn.linear_model import LogisticRegression<br>
+    b. from sklearn.ensemble import ExtraTreesClassifier<br>
+    c. from sklearn.svm import SVC<br>
+    d. from sklearn.feature_selection import RFE<br>
+  <br>
   2. To protect patient's private information, we can not share the data. (To reqeust data access, please contact authors: Seung Mi Lee. M.D., Ph.D.)
