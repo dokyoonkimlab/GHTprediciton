@@ -12,13 +12,13 @@ This implementation is conducted by the following packages (to be installed inde
 Similar implementation of graph-based SSL can be found at scikit-learn (sklearn.semi_supervised.LabelPropagation) <br>
 This file explains step by step how to use graph-based SSL.
 ```
-Toy_Example_graph_based_SSL.ipynb
+Toy_Example_graph_based_SSL.ipynb # Instructions
 ```
   
   Functional version and toy example demonstration
 ```  
-Graph_based_SSL.py
-test_main.py
+SSL.py # Function for graph-based SSL
+test_main.py # Toy example
 ```
   
 ### Note
