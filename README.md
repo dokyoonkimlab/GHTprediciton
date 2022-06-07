@@ -10,15 +10,16 @@ This implementation is conducted by the following packages (to be installed inde
 
 ### Run graph-based semi-supervised learning
 Similar implementation of graph-based SSL can be found at scikit-learn (sklearn.semi_supervised.LabelPropagation)
+This file explains step by step how to use graph-based SSL.
 ```
 Toy_Example_graph_based_SSL.ipynb
 ```
-  This file explains step by step how to use graph-based SSL.
+  
+  Functional version and toy example demonstration
 ```  
 Graph_based_SSL.py
 test_main.py
 ```
-  Functional version and toy example demonstration
   
 ### Note
   1. Implementation of variable selection also can be found at scikit-learn
