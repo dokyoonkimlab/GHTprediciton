@@ -9,7 +9,7 @@ This implementation is conducted by the following packages (to be installed inde
   * jupyter notebook: instructions of step-by-step process
 
 ### Run graph-based semi-supervised learning
-Similar implementation of graph-based SSL can be found at scikit-learn (sklearn.semi_supervised.LabelPropagation)
+Similar implementation of graph-based SSL can be found at scikit-learn (sklearn.semi_supervised.LabelPropagation) <br>
 This file explains step by step how to use graph-based SSL.
 ```
 Toy_Example_graph_based_SSL.ipynb
